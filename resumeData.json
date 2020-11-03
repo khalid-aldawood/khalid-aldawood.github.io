@@ -1,22 +1,22 @@
 {
   "main": {
     "name":"Khalid Aldawood",
-    "description":"I am a full stack developer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "description":"My name is Khalid Aldawood, and I am a full stack developer and I use react to develop websites. I am also interested in data science and machine learing",
+    "image":"profileimg1.jpg",
+    "bio":"I am a computer science gradute, with experience in full stack development, data science and machine learing. I live in the kingdom of Saudi Arabia and I am intersted in using my skills to help others, create cool useful software and find solutions that makes life simpler.",
+    "contactmessage":"",
+    "email": "khalid.aldawood@colorado.edu",
+    "phone": "+966507903804",
     "github":"https://github.com/nordicgiant2/react-nice-resume",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"khalid.aldawood@colorado.edu",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1ckYfyrbdWF6SB2BsCLir2BuA31IrTJ5blDegWdQUzbQ/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -46,62 +46,60 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The University of Colorado at Boulder",
+        "degree":"Bachelor of Science, Major in Computer Science, Minor in Italian",
+        "graduated":"May 2020",
+        "description":"Relevant Coursework: Software Development Methods and Tools, Algorithms, Machine learning, Data science, Cybersecurity"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"UT Austin Department of Computer Science & The Institute of Computational Engineering and Sciences",
+        "title":"Machine learning researcher",
+        "years":"May 2018",
+        "description":"Creating a neural network that detects cancer cells."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"NC State Department of Statistics",
+        "title":"Data analyst",
+        "years":"May 2017",
+        "description":"Modeled a data set using regression."
       }
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"ReactJs",
         "level":"60%"
       },
       {
-        "name":"VueJs",
+        "name":"Python",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
+        "name":"c++/c",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"Java",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"R",
         "level":"80%"
       },
       {
-        "name":"Swift",
+        "name":"English",
         "level":"50%"
       },
       {
-        "name":"JAVA",
+        "name":"Arabic",
+        "level":"80%"
+      },
+      {
+        "name":"Italian",
         "level":"80%"
       }
     ]
@@ -110,15 +108,15 @@
     "projects": [
       {
         "title":"Imparitaliano",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
+        "category":"A website to learn the Italian language",
+        "image":"imparipic1.png",
         "url":"https://www.imparitaliano.ga"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Cartable",
+        "category":"A ticketing system for grocery shoppers",
+        "image":"cartable1.png",
+        "url":"https://0ffc30d952d7.ngrok.io"
       }
     ]
   }
